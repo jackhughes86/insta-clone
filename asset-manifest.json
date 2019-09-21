@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/insta-clone/static/css/main.2cce8147.chunk.css",
+    "main.js": "/insta-clone/static/js/main.6e1984e9.chunk.js",
+    "main.js.map": "/insta-clone/static/js/main.6e1984e9.chunk.js.map",
+    "runtime~main.js": "/insta-clone/static/js/runtime~main.5310d6ea.js",
+    "runtime~main.js.map": "/insta-clone/static/js/runtime~main.5310d6ea.js.map",
+    "static/css/2.266e55a5.chunk.css": "/insta-clone/static/css/2.266e55a5.chunk.css",
+    "static/js/2.e791f175.chunk.js": "/insta-clone/static/js/2.e791f175.chunk.js",
+    "static/js/2.e791f175.chunk.js.map": "/insta-clone/static/js/2.e791f175.chunk.js.map",
+    "index.html": "/insta-clone/index.html",
+    "precache-manifest.4ae1487b6d32c6016b21645937d9db2e.js": "/insta-clone/precache-manifest.4ae1487b6d32c6016b21645937d9db2e.js",
+    "service-worker.js": "/insta-clone/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/insta-clone/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/insta-clone/static/css/main.2cce8147.chunk.css.map"
+  }
+}
